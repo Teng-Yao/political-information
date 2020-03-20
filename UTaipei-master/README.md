@@ -7,6 +7,8 @@
 
 #### week1
 
+trytry(https://github.com/Teng-Yao/political-information/blob/master/UTaipei-master/trytry.ipynb) 
+
 #### week2
 
 #### week3
