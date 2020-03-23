@@ -11,6 +11,8 @@ trytry(https://github.com/Teng-Yao/political-information/blob/master/UTaipei-mas
 
 #### week2
 
+work2(https://github.com/Teng-Yao/political-information/blob/master/UTaipei-master/work2.ipynb)
+
 #### week3
 
 # Projects
