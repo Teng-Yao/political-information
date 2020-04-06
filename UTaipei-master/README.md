@@ -13,7 +13,7 @@ trytry(https://github.com/Teng-Yao/political-information/blob/master/UTaipei-mas
 
 work2(https://github.com/Teng-Yao/political-information/blob/master/UTaipei-master/work2.ipynb)
 
-#### week3
+#### week3(https://github.com/Teng-Yao/political-information/blob/master/UTaipei-master/work3.ipynb)
 
 # Projects
 #### [YouTube 推薦系統分析：任永安、蘇鴻章、陳豪毅](https://drive.google.com/file/d/1u1mmWrSPNO-Nxm4XiHEzvrNKYhp9ZKBP/view?fbclid=IwAR0OPPGxpFSmHUVi4fT3hJgj5t5yaG_RyngpHo2BOVRzyzy4NTJNhf0B1nk)
